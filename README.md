@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **egeakmanegeakman@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/egeakman](https://github.com/egeakman/egeakman/blob/master/egeakman_resume.md)
+- 📄 Know about my experiences [My CV](https://github.com/egeakman/egeakman/blob/master/egeakman_resume.md)
 
 - ⚡ Fun fact **I love listening to music while I'm coding/working.**
 
