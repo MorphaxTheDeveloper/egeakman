@@ -33,9 +33,7 @@
 
 ## Contact With Me
 
-E-mail: egeakmanegeakman@hotmail.com
-
-&nbsp;
+**E-mail:** egeakmanegeakman@hotmail.com
 
 ## My Social Media Accounts
 
