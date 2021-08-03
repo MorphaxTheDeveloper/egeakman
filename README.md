@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **egeakmanegeakman@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/egeakman](https://github.com/egeakman)
+- 📄 Know about my experiences [https://github.com/egeakman](https://github.com/egeakman/egeakman/blob/master/egeakman_resume.md)
 
 - ⚡ Fun fact **I love listening to music while I'm coding/working.**
 
@@ -68,7 +68,6 @@ E-mail: egeakmanegeakman@hotmail.com
 
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &ensp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-
 ## Devops:
 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &ensp; <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> &ensp; <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
@@ -84,6 +83,3 @@ E-mail: egeakmanegeakman@hotmail.com
 ## Software:
 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="office" width="40" height="40"/> </a>
-
-
-
