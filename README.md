@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege Akman</h1>
-<h2 align="center">A passionate full stack developer from Turkey</h2>
+<h2 align="center">A passionate software developer from Turkey</h2>
 
 ## Trophy
 
@@ -15,11 +15,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [tcGrida App](https://repo.antalyaisas.com/tcgrida-app)
+- 🔭 I’m currently working on [FRC Infinite Recharge Vision Processing](https://github.com/Scorpions-Robotics/vision-2021)
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning about AI Technologies
 
-- 👨‍💻 Most of my projects are available at [https://github.com/egeakman](https://github.com/egeakman)
+- 👨‍💻 Most of my projects are available at my [GitHub Profile](https://github.com/egeakman), but you can also check out my organizations: [Scorpions Robotics](https://github.com/Scorpions-Robotics), [Antalya ISAS](https://github.com/Antalya-ISAS)
 
 - 💬 Ask me about **Python, Bash, Powershell**
 
@@ -43,7 +43,7 @@
 <a href="https://linkedin.com/in/egeakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egeakman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16012244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16012244" height="30" width="40" /></a>
 <a href="https://instagram.com/ege.akmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ege.akmn" height="30" width="40" /></a>
-<a href="https://discord.gg/peCKe2drMV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="peCKe2drMV" height="30" width="40" /></a>
+<a href="https://discord.gg/6VYwQvHHVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="peCKe2drMV" height="30" width="40" /></a>
 </p>
 
 &nbsp;

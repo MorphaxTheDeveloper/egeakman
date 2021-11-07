@@ -8,7 +8,7 @@ Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I 
 HTML, CSS, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop,
 Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub.
 I also did create a Discord bot with Python that has features in different categories such as music,
-moderation, entertainment, and now we are merging our bots with a friend. Also, I'm learning C# and
+moderation, entertainment. Also, I'm learning C# and
 C++. And most importantly I love learning new things and am a fast learner. 
 
 **Here are my social media accounts:**
