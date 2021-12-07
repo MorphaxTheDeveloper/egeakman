@@ -4,22 +4,19 @@
 
 egeakmanegeakman@hotmail.com
 
-Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java,
-HTML, CSS, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop,
-Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub.
-I also did create a Discord bot with Python that has features in different categories such as music,
-moderation, entertainment. Also, I'm learning C# and
-C++. And most importantly I love learning new things and am a fast learner. 
+Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning, vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
 
 **Here are my social media accounts:**
 
-**GitHub:** https://github.com/egeakman
+**GitHub:** <https://github.com/egeakman>
 
-**LinkedIn:** https://www.linkedin.com/in/egeakman 
+**LinkedIn:** <https://www.linkedin.com/in/egeakman>
 
-**Instagram:** https://www.instagram.com/ege.akmn 
+**Instagram:** <https://www.instagram.com/ege.akmn>
 
-**Twitter:** https://twitter.com/egeakmn 
+**Twitter:** <https://twitter.com/egeakmn>
+
+&nbsp;
 
 ## Work Experience
 
@@ -28,19 +25,27 @@ C++. And most importantly I love learning new things and am a fast learner. 
 **Antalya ISAS - Antalya**
 **April 2021 to Present**
 
-I voluntarily work at Antalya ISAS as a Python Developer / Project Manager. We are making an open-
-source PyQt application for collecting and recording data, especially visual data, from underwater ROVs.
+I voluntarily work at Antalya ISAS as a Python Developer / Project Manager. We are making an open-source PyQt application for collecting and recording data, especially visual data, from underwater ROVs.
 
-**Here is a link to the app's repository: https://repo.antalyaisas.com/tcgrida-app**
+**Here is a link to the app's repository: <https://github.com/Antalya-ISAS/tcgrida-app>**
 
-### Participating in FIRST Robotics Competition
+### Created a vision processing framework for object detection
+
+**FRC Team 7672 Scorpions Robotics - Istanbul**
+**April 2021 to Present**
+
+I created an open-source vision processing framework using Haar Cascades for detecting and tracking specified objects. The framework is based on the [OpenCV](https://opencv.org/) library and Python.
+
+**Here is a link to the framework's repository: <https://github.com/Scorpions-Robotics/vision-2021>**
+
+### Participating in FIRST Robotics Competition as Vice-Captain
 
 **First Robotics Competition - Istanbul**
 **September 2020 to Present**
 
 >We call FIRST Robotics Competition the ultimate Sport for the Mind. High-school student participants call
 >it “the hardest fun you’ll ever have.”
->Under strict rules, limited time and resources, teams of students are challenged to raise funds, design
+>Under strict rules, limited time and resources, teams of students are challenged to raise funds, design
 >a team "brand," hone teamwork skills, and build and program industrial-size robots to play a difficult
 >field game against like-minded competitors. It’s as close to real-world engineering as a student can get.
 >Volunteer professional mentors lend their time and talents to guide each team. Each season ends with
@@ -54,6 +59,8 @@ source PyQt application for collecting and recording data, especially visual dat
 I created a Discord bot with Python that has features in different categories such as music, moderation,
 entertainment.
 
+&nbsp;
+
 ## Education
 
 ### High school diploma in Computer Programming
@@ -61,56 +68,69 @@ entertainment.
 **Bahcesehir High School for Science and Technology - Antalya**
 **August 2020 to Present**
 
+&nbsp;
+
 ## Skills
 
-- Git 
-- Java 
-- Python
-- AWS 
-- Azure 
-- HTML5 
-- Microsoft Office 
-- Google Docs 
-- Robotics 
-- Robot programming
-- Microsoft Windows Server 
-- Windows 
-- Linux 
-- LAMP stack 
-- Penetration testing 
-- Cybersecurity 
-- Adobe Photoshop 
-- Adobe Premiere 
-- Adobe Illustrator 
-- Adobe Creative Cloud 
-- Server management
-- macOS
-- TCP/IP 
-- Computer Networking
-- Mentoring 
-- English
-- Leadership
-- CSS 
-- Bash 
-- PowerShell 
+- **Interpersonal Skills:**
+  - Leadership
+  - Teamwork
+  - Creativity
+  - Time Management
+  - Problem Solving
+  - Communication
+  - Decision Making
+
+- **Programming Languages:**
+  - Python (Mainly)
+  - C++ (Learning)
+  - Java
+  - JavaScript
+  - Bash
+  - PowerShell
+
+- **Frontend:**
+  - HTML
+  - CSS
+  - QT
+  - Bootstrap
+
+- **Backend:**
+  - Apache
+  - Nginx
+  - Flask
+
+- **Database:**
+  - MySQL
+
+- **DevOps:**
+  - AWS
+  - Azure
+
+- **Operating Systems:**
+  - Linux/Unix (Debian/RedHat)
+  - Windows/Windows Server
+  - macOS
+
+- **Version Control:**
+  - Git
+
+- **Software:**
+  - Microsoft Office
+  - Adobe CC (Photoshop, Premiere Pro, Illustrator)
+
+&nbsp;
 
 ## Languages
 
 - English - Fluent
 - Turkish - Expert
 
-## Links
-
-- https://github.com/egeakman
-
-- https://antalyaisas.com
-
-- https://www.bkmindbenders.com
+&nbsp;
 
 ## Awards
 
 ### Robotex 2019 Championship Award on LEGO Sumo Category
-
 
 **November 2019**
 
@@ -119,4 +139,8 @@ entertainment.
 >inspired by technology industry leaders, examine new start-ups, build robots for various challenges
 >and learn about the latest technology innovations.
 
+### Istanbul Municipality Environment Competition 2020 People's Choice Award
 
+**June 2021**
+
+Our project was selected for the People's Choice Award.
