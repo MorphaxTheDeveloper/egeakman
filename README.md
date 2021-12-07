@@ -11,6 +11,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egeakman&theme=radical" alt="egeakman" /></p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@egeakman/1924fee8-181d-4d26-82dd-2fea6156b8fe.png" /></a>
+
 &nbsp;
 
 ## About Me
