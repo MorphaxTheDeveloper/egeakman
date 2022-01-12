@@ -3,9 +3,9 @@
 
 ## Trophy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egeakman&label=Profile%20Views&color=0e75b6&style=flat" alt="egeakman" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=egeakman&label=Profile%20Views&color=0e75b6&style=flat" alt="egeakman" /></p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=egeakman" alt="egeakman" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=egeakman" alt="egeakman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egeakman&show_icons=true&theme=radical&locale=en" alt="egeakman" /></p>
 
