@@ -2,7 +2,7 @@
 
 ## Ege Akman's CV
 
-egeakmanegeakman@hotmail.com
+<egeakmanegeakman@hotmail.com>
 
 Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning and vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
 
@@ -27,14 +27,20 @@ I voluntarily work at Antalya ISAS as a Python Developer / Project Manager. We a
 
 **Here is a link to the app's repository: <https://github.com/Antalya-ISAS/tcgrida-app>**
 
+### Python Documentation Turkish Translation
+
+I think localization is a great way to reach people from different cultures and communities. With this motto, I voluntarily started the first Turkish translation project for the official Python Documentation. At first, I gathered a team of 10 people, mostly friends from my school, who were into technology and Python. Now there are many people whom I've never seen in real life contributing to this project.
+
+**Here is a link to the translation's repository: <https://github.com/python-docs-tr/python-docs-tr>**
+
 ### Created a vision processing framework for object detection
 
 **FRC Team 7672 Scorpions Robotics - Istanbul**
 **April 2021 to Present**
 
-I created an open-source vision processing framework using Haar Cascades for detecting and tracking specified objects. The framework is based on the [OpenCV](https://opencv.org/) library and Python.
+I created an open-source vision processing framework using Haar Cascades and machine learning for detecting and tracking specified objects. The framework is based on the [OpenCV](https://opencv.org/) library and Python.
 
-**Here is a link to the framework's repository: <https://github.com/Scorpions-Robotics/vision-2021>**
+**Here is a link to the framework's repository: <https://github.com/Scorpions-Robotics/vision-2022>**
 
 ### Participating in FIRST Robotics Competition as Vice-Captain
 
@@ -112,6 +118,15 @@ entertainment.
 - **Software:**
   - Microsoft Office
   - Adobe CC (Photoshop, Premiere Pro, Illustrator)
+  - GitHub
+  - Visual Studio Code
+
+- **Libraries:**
+  - (OpenCV)[https://opencv.org/]
+  - (PyQT)[https://riverbankcomputing.com/software/pyqt/intro]
+  - (Lavalink)[https://github.com/freyacodes/Lavalink]
+  - (Discord.py)[https://discordpy.readthedocs.io/en/stable/]
+  - (Vidgear)[https://abhitronix.github.io/vidgear/latest/]
 
 ## Languages
 
