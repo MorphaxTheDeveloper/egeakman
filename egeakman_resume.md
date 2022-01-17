@@ -124,11 +124,11 @@ entertainment.
   - Visual Studio Code
 
 - **Libraries:**
-  - (OpenCV)[https://opencv.org/]
-  - (PyQT)[https://riverbankcomputing.com/software/pyqt/intro]
-  - (Lavalink)[https://github.com/freyacodes/Lavalink]
-  - (Discord.py)[https://discordpy.readthedocs.io/en/stable/]
-  - (Vidgear)[https://abhitronix.github.io/vidgear/latest/]
+  - [OpenCV](https://opencv.org/)
+  - [PyQT](https://riverbankcomputing.com/software/pyqt/intro)
+  - [Lavalink](https://github.com/freyacodes/Lavalink)
+  - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
+  - [Vidgear](https://abhitronix.github.io/vidgear/latest/)
 
 ## Languages
 
