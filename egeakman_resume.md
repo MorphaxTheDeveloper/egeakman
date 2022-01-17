@@ -28,6 +28,8 @@ I voluntarily work at Antalya ISAS as a Python Developer / Project Manager. We a
 **Here is a link to the app's repository: <https://github.com/Antalya-ISAS/tcgrida-app>**
 
 ### Python Documentation Turkish Translation
+**Python Software Foundation**
+**December 2021 to Present**
 
 I think localization is a great way to reach people from different cultures and communities. With this motto, I voluntarily started the first Turkish translation project for the official Python Documentation. At first, I gathered a team of 10 people, mostly friends from my school, who were into technology and Python. Now there are many people whom I've never seen in real life contributing to this project.
 
