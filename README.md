@@ -17,7 +17,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [FRC Infinite Recharge Vision Processing](https://github.com/Scorpions-Robotics/vision-2021)
+- 🔭 I’m currently working on [FRC Rapid React Vision Processing](https://github.com/Scorpions-Robotics/vision-2022)
 
 - 🌱 I’m currently learning about AI Technologies and C++
 
