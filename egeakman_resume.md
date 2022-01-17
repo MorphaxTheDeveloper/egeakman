@@ -4,7 +4,7 @@
 
 egeakmanegeakman@hotmail.com
 
-Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning, vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
+Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning and vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
 
 **Here are my social media accounts:**
 
@@ -15,8 +15,6 @@ Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I 
 **Instagram:** <https://www.instagram.com/ege.akmn>
 
 **Twitter:** <https://twitter.com/egeakmn>
-
-&nbsp;
 
 ## Work Experience
 
@@ -59,16 +57,12 @@ I created an open-source vision processing framework using Haar Cascades for det
 I created a Discord bot with Python that has features in different categories such as music, moderation,
 entertainment.
 
-&nbsp;
-
 ## Education
 
 ### High school diploma in Computer Programming
 
 **Bahcesehir High School for Science and Technology - Antalya**
 **August 2020 to Present**
-
-&nbsp;
 
 ## Skills
 
@@ -119,14 +113,10 @@ entertainment.
   - Microsoft Office
   - Adobe CC (Photoshop, Premiere Pro, Illustrator)
 
-&nbsp;
-
 ## Languages
 
 - English - Fluent
 - Turkish - Expert
-
-&nbsp;
 
 ## Awards
 
