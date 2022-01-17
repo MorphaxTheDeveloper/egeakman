@@ -126,7 +126,7 @@ entertainment.
 - **Libraries:**
   - [OpenCV](https://opencv.org/)
   - [PyQT](https://riverbankcomputing.com/software/pyqt/intro)
-  - [Lavalink](https://github.com/freyacodes/Lavalink)
+  - [Lavalink](https://github.com/freyacodes/Lavalink) (I also contributed to this library.)
   - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
   - [Vidgear](https://abhitronix.github.io/vidgear/latest/)
 
