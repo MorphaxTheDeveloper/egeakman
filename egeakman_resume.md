@@ -123,7 +123,7 @@ entertainment.
   - GitHub
   - Visual Studio Code
 
-- **Libraries:**
+- **Libraries and frameworks:**
   - [OpenCV](https://opencv.org/)
   - [PyQT](https://riverbankcomputing.com/software/pyqt/intro)
   - [Lavalink](https://github.com/freyacodes/Lavalink) (I also contributed to this library.)
