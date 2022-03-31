@@ -4,13 +4,15 @@
 
 <egeakmanegeakman@hotmail.com>
 
-Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning and vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
+Hello, I'm Ege Akman, and 16 years old. I got into programming when I was 14. I know Python, Java, HTML, CSS, JavaScript, Bash, and PowerShell. I actively use some Adobe CC applications such as Photoshop, Premiere Pro, Illustrator. My favorite text editor is Visual Studio Code. I am big fan of open-source and I am familiar with Git and GitHub. I also did create a Discord bot with Python that has features in different categories such as music, moderation, entertainment. I am really interested in AI/machine learning and vision processing. I am currently learning C++. Most importantly I love learning new things and am a fast learner. I also play the electric guitar and participate in a professional choir as a chorister.
 
 **Here are my social media accounts:**
 
 **GitHub:** <https://github.com/egeakman>
 
 **LinkedIn:** <https://www.linkedin.com/in/egeakman>
+
+**PyPI:** <https://pypi.org/user/egeakman> (I release some of my projects on PyPI as CLI tools etc.)
 
 **Instagram:** <https://www.instagram.com/ege.akmn>
 
@@ -28,6 +30,7 @@ I voluntarily work at Antalya ISAS as a Python Developer / Project Manager. We a
 **Here is a link to the app's repository: <https://github.com/Antalya-ISAS/tcgrida-app>**
 
 ### Python Documentation Turkish Translation
+
 **Python Software Foundation**
 **December 2021 to Present**
 

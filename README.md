@@ -23,6 +23,8 @@
 
 - 👨‍💻 Most of my projects are available at my [GitHub Profile](https://github.com/egeakman), but you can also check out my organizations: [Scorpions Robotics](https://github.com/Scorpions-Robotics), [Antalya ISAS](https://github.com/Antalya-ISAS)
 
+- 🐍 I release some of my projects on [PyPI](https://pypi.org/user/egeakman/) as CLI tools etc.
+
 - 💬 Ask me about **Python, Git, CI/CD**
 
 - 📫 How to reach me **egeakmanegeakman@hotmail.com**
@@ -43,6 +45,7 @@
 
 <p align="left">
 <p align="left"> <a href="https://twitter.com/egeakmn" target="blank"><img src="https://img.shields.io/twitter/follow/egeakmn?logo=twitter&style=social" alt="egeakmn" /></a> </p>
+<a href="https://pypi.org/user/egeakman" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*8Zh-mzLnVMDsbvXdKsU4lw.png" alt="egeakman" height="30" width="70" /></a>
 <a href="https://twitter.com/egeakmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egeakmn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/egeakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egeakman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16012244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16012244" height="30" width="40" /></a>
