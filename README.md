@@ -37,7 +37,7 @@
 
 ## Contact With Me
 
-**E-mail:** egeakmanegeakman@hotmail.com
+**E-mail:** me@egeakman.dev
 
 &nbsp;
 
