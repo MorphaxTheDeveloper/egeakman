@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [FRC Rapid React Vision Processing](https://github.com/Scorpions-Robotics/vision-2022)
 
-- 🌱 I’m currently learning about AI Technologies and C++
+- 🌱 I’m currently learning about AI technologies and C++
 
 - 👨‍💻 Most of my projects are available at my [GitHub Profile](https://github.com/egeakman), but you can also check out my organizations: [Scorpions Robotics](https://github.com/Scorpions-Robotics), [Antalya ISAS](https://github.com/Antalya-ISAS)
 
