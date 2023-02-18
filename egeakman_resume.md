@@ -14,6 +14,8 @@ I am Ege Akman, a software developer with extensive experience in various aspect
 
 **PyPI:** <https://pypi.org/user/egeakman> (I release some of my projects on PyPI as CLI tools etc.)
 
+**Mastodon:** <https://mastodon.social/@egeakman>
+
 **Instagram:** <https://www.instagram.com/ege.akmn>
 
 **Twitter:** <https://twitter.com/egeakmn>
